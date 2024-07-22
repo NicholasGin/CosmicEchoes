@@ -1,5 +1,5 @@
 Cosmic Echoes
-Nicholas Gin - 251082743
+Nicholas Gin 
 Chris Ng - 251087940
 
 Controls
